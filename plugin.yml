@@ -1,0 +1,7 @@
+main: me.thorvaldemar.com.main
+version: 1.0
+name: WarArena
+
+commands:
+  arena:
+    description: Fight versus your enemies and get their loot, in an arena
